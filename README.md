@@ -33,7 +33,7 @@ Si quieres mostrar tus estadísticas de GitHub, reemplaza `tu-usuario` a continu
 
 ![Mi Perfil](https://github-readme-stats.vercel.app/api?username=edgarmartinezpal&show_icons=true&theme=radical&hide_rank=false)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-edgarmartinezpal&layout=compact&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=edgarmartinezpal&layout=compact&theme=radical)
 
 ---
 
