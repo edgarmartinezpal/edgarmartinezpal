@@ -27,9 +27,7 @@ Estoy siempre abierto a colaboraciones, nuevos retos y discusiones sobre tecnolo
 
 ***
 
-### 📈 Estadísticas de GitHub (Opcional)
-
-Si quieres mostrar tus estadísticas de GitHub, reemplaza `tu-usuario` a continuación con tu nombre de usuario.
+### 📈 Estadísticas de GitHub
 
 ![Mi Perfil](https://github-readme-stats.vercel.app/api?username=edgarmartinezpal&show_icons=true&theme=radical&hide_rank=false)
 
