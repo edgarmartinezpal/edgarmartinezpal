@@ -1,38 +1,44 @@
-## 💻 Portfolio de Edgar Martínez Palacios
+# ¡Hola! Soy Edgar Martínez Palacios 👋
 
-¡Hola! Soy **Edgar Martínez Palacios**, un desarrollador de aplicaciones **web** y aplicaciones **multiplataforma** con pasión por crear soluciones eficientes y fáciles de usar. Mi experiencia abarca desde el desarrollo *front-end* y *back-end* en entornos web hasta la construcción de aplicaciones nativas e híbridas que funcionan perfectamente en diferentes dispositivos.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Edgar%20Martínez%20Palacios&fontSize=70&animation=fadeIn" />
+</p>
 
----
+### 👨‍💻 Sobre mí
+Soy un **Desarrollador Full Stack** y de **Aplicaciones Multiplataforma** apasionado por construir soluciones eficientes, escalables y con una gran experiencia de usuario. Me encanta aprender nuevas tecnologías y enfrentar retos que me permitan crecer profesionalmente.
 
-### 🚀 Stack Tecnológico Principal
-
-Este es un resumen de las tecnologías con las que trabajo habitualmente:
-
-| Área | Tecnologías Clave |
-| :--- | :--- |
-| **Desarrollo Web (Front-end)** | [Ej: React], HTML5, CSS3, [Ej: Tailwind CSS, SASS] |
-| **Desarrollo Web (Back-end)** | [Ej: Node.js (Express)], REST APIs |
-| **Aplicaciones Multiplataforma** | [Ej: React Native], [Ej: Expo] |
-| **Bases de Datos** | [Ej: MongoDB, MySQL], SQL, NoSQL |
-| **DevOps & Herramientas** | Git, GitHub |
+- 🌍 Basado en: Alzira, Comunidad Valencia, España
+- 🚀 Actualmente trabajando en: Proyectos Web y Móvil
+- 🧠 Aprendiendo: Programación Web y para dispositivos móviles
+- 💬 Pregúntame sobre: **Java, React, Node.js, React Native, SQL y MongoDB**
 
 ---
 
-### ✉️ Contacto
+### 🛠️ Stack Tecnológico
 
-Estoy siempre abierto a colaboraciones, nuevos retos y discusiones sobre tecnología. ¡No dudes en contactarme!
-
-* **LinkedIn:** [https://www.linkedin.com/in/edgar-mart%C3%ADnez-palacios/](https://www.linkedin.com/in/edgar-mart%C3%ADnez-palacios/)
-* **Correo Electrónico:** [edgarmartinezpal@gmail.com](mailto:edgarmartinezpal@gmail.com)
-
-***
-
-### 📈 Estadísticas de GitHub
-
-![Mi Perfil](https://github-readme-stats.vercel.app/api?username=edgarmartinezpal&show_icons=true&theme=radical&hide_rank=false)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=edgarmartinezpal&layout=compact&theme=radical)
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,sass,nodejs,express,mongodb,mysql,git,github,reactnative,expo" />
+</p>
 
 ---
 
-### ¡Gracias por visitar mi portfolio!
+### 📊 Mis Estadísticas de GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=edgarmartinezpal&theme=radical" />
+</p>
+
+---
+
+### ✉️ ¡Conectemos!
+
+<p align="left">
+<a href="https://www.linkedin.com/in/edgar-mart%C3%ADnez-palacios/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Edgar Martínez Palacios" height="30" width="40" /></a>
+<a href="mailto:edgarmartinezpal@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/353812/google-gmail.svg" alt="edgarmartinezpal@gmail.com" height="30" width="40" /></a>
+</p>
+
+---
+
+<p align="center">
+  ¡Gracias por visitar mi perfil! 😊
+</p>
