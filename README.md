@@ -12,7 +12,7 @@ Soy un **Desarrollador Full Stack** y de **Aplicaciones Multiplataforma** apasio
 - 🧠 Aprendiendo: Programación Web y para dispositivos móviles
 - 💬 Pregúntame sobre: **Java, React, Node.js, React Native, SQL y MongoDB**
 
-<p align="left>
+<p align="left">
   <a href="https://edgarmartinezpal.github.io/" target="_blank">Mi portfolio completo ></a>
 </p>
 
