@@ -12,6 +12,10 @@ Soy un **Desarrollador Full Stack** y de **Aplicaciones Multiplataforma** apasio
 - 🧠 Aprendiendo: Programación Web y para dispositivos móviles
 - 💬 Pregúntame sobre: **Java, React, Node.js, React Native, SQL y MongoDB**
 
+<p align="left>
+  <a href="https://edgarmartinezpal.github.io/" target="_blank">Mi portfolio completo ></a>
+</p>
+
 ---
 
 ### 🛠️ Stack Tecnológico
@@ -33,8 +37,8 @@ Soy un **Desarrollador Full Stack** y de **Aplicaciones Multiplataforma** apasio
 ### ✉️ ¡Conectemos!
 
 <p align="left">
-<a href="https://www.linkedin.com/in/edgar-mart%C3%ADnez-palacios/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Edgar Martínez Palacios" height="30" width="40" /></a>
-<a href="mailto:edgarmartinezpal@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/353812/google-gmail.svg" alt="edgarmartinezpal@gmail.com" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/edgar-mart%C3%ADnez-palacios/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Edgar Martínez Palacios" height="30" width="40" /></a>
+<a href="mailto:edgarmartinezpal@gmail.com" target="_blank"><img align="center" src="https://www.svgrepo.com/show/353812/google-gmail.svg" alt="edgarmartinezpal@gmail.com" height="30" width="40" /></a>
 </p>
 
 ---
